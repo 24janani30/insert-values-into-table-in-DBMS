@@ -1,0 +1,3 @@
+SQL> INSERT INTO Employee values('2', 'Santosh', 5000, 'Delhi','23-DEC-1994');
+ 1 row inserted
+ 
